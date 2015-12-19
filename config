@@ -1,0 +1,2 @@
+[diff "iworkpages"]
+	textconv = xsltproc $GIT_DIR/Pages.xsl
